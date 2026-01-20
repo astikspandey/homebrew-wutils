@@ -10,6 +10,15 @@ And more...
 
 ## How to download wutils 
 Just run the following commands;
+1. Install homebrew if not installed
+Option A. MacOS and linux download command
+```shell
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+```
+Option B. MacOS only 
+visit https://github.com/Homebrew/brew/releases/ and scroll down to assets and click the .pkg file then double click the .pkg file in your downloads folder
+
+2. Install Wutils via homebrew
 ```shell
 brew tap astikspandey/wutils
 brew install wutils-install
