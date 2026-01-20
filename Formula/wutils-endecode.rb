@@ -10,6 +10,7 @@ class WutilsEndecode < Formula
 
   def install
     bin.install "endecode.py" => "endecode"
+    chmod 0755, bin/"endecode"
   end
 
   test do

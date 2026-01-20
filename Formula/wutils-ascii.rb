@@ -8,6 +8,7 @@ class WutilsAscii < Formula
 
   def install
     bin.install "ascii.sh" => "ascii"
+    chmod 0755, bin/"ascii"
   end
 
   test do

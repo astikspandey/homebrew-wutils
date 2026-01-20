@@ -8,6 +8,7 @@ class WutilsFilegen < Formula
 
   def install
     bin.install "filegen.sh" => "filegen"
+    chmod 0755, bin/"filegen"
   end
 
   test do

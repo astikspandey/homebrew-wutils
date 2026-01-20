@@ -8,6 +8,7 @@ class WutilsDate < Formula
 
   def install
     bin.install "date.sh" => "wdate"
+    chmod 0755, bin/"wdate"
   end
 
   test do
