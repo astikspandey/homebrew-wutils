@@ -2,7 +2,7 @@ class WutilsDate < Formula
   desc "Display and save current date/time in a loop"
   homepage "https://github.com/astikspandey/homebrew-wutils"
   url "https://github.com/astikspandey/homebrew-wutils/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "6d56132beacf604ccd673180f2b2e1ecc808c02076a5c73692854315015a7ad8"
+  sha256 "ce2f18e6559367b226de19c435c0f2c85a6e5e9841104ae3f10299bb01ded298"
   license "MIT"
   version "1.0.0"
 
