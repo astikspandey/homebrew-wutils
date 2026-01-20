@@ -1,0 +1,16 @@
+# Compiled binaries
+loop
+*.o
+
+# Editor files
+*.un~
+.*.un~
+*.swp
+*.swo
+*~
+
+# Output files
+date.txt
+
+# macOS
+.DS_Store
