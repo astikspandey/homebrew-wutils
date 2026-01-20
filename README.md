@@ -15,3 +15,12 @@ brew tap astikspandey/wutils
 brew install wutils-install
 wutils-install 
 ```
+## How to uninstall wutils
+Just run the following command;
+```shell
+wutils-uninstall
+```
+
+## NOTE
+
+Wutils is currently only on mac and linux, we dont plan on migrating to windows anytime soon
