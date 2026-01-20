@@ -2,7 +2,7 @@ class WutilsEndecode < Formula
   desc "Encode and decode strings using XOR and base64"
   homepage "https://github.com/astikspandey/homebrew-wutils"
   url "https://github.com/astikspandey/homebrew-wutils/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "2be3070f4da298407895e883e27edcda5b82c2dbf98ca2228db9eec0b501da65"
+  sha256 "bfc0fa10c559339b48cad5704a475f08dd14150249b4ce5afc341eeea49b282e"
   license "MIT"
   version "1.0.0"
 
