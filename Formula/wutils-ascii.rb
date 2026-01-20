@@ -2,7 +2,7 @@ class WutilsAscii < Formula
   desc "ASCII art text generator using 5x7 font"
   homepage "https://github.com/astikspandey/homebrew-wutils"
   url "https://github.com/astikspandey/homebrew-wutils/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "ce2f18e6559367b226de19c435c0f2c85a6e5e9841104ae3f10299bb01ded298"
+  sha256 "7ef7d67b2a07ebc53e95f6f22a3c01c3a4f99097c9fd3f3f3a2d23a9f985e809"
   license "MIT"
   version "1.0.0"
 
